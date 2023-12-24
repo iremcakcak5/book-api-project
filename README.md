@@ -1,2 +1,2 @@
-
-An example project for data science lessons tahat using BOOK API
+Spotify APİ Kullanımı
+- Source:https://developer.spotify.com/documentation/web-api
