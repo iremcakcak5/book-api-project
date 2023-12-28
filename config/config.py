@@ -1,2 +1,0 @@
-Client_ID="a093cc46be114009b11723d34be269e8"
-Client_Secret="1286a57e77dd48deba995b5e45f177ba"
